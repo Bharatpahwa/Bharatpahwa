@@ -1,10 +1,7 @@
 # <span class="wave">👋</span>Hey, I'm Bharat Pahwa
 <div>
 <br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
-
-<p align="right">
 ![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841292-635824e5-75bc-4f79-81b8-e557433a677b.png)
-</p>
  </div>
 
 ## 🌐 Socials:
