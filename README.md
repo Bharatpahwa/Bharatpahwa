@@ -1,10 +1,11 @@
 # <span class="wave">👋</span>Hey, I'm Bharat Pahwa
+<div>
 <br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
 
 <p align="right">
-  <img src="https://drive.google.com/file/d/1tQX3Zs_GPgGAN9ACR6mAGqqntZO66aG7/view?usp=share_link" alt="Sublime's custom image"/>
-
+  <img src="https://drive.google.com/file/d/1tQX3Zs_GPgGAN9ACR6mAGqqntZO66aG7/view?usp=share_link"/>
 </p>
+ </div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pahwa_bharat_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-pahwa-924816220) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BharatPahwa4) 
