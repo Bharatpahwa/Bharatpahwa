@@ -1,5 +1,6 @@
 # <span class="wave">👋</span>Hey, I'm Bharat Pahwa
-<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
+<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841007-99a0832e-2c11-45b0-957c-85f06125e40b.png) <br> 🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
+
 
 
 ## 🌐 Socials:
