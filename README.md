@@ -2,7 +2,7 @@
 <br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
 
 <p align="right">
-  <img src="![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841162-5e37e089-58cf-4069-b4bb-4e4d6659e41f.png)" alt="Sublime's custom image"/>
+  <img src="https://drive.google.com/file/d/1tQX3Zs_GPgGAN9ACR6mAGqqntZO66aG7/view?usp=share_link" alt="Sublime's custom image"/>
 
 </p>
 
