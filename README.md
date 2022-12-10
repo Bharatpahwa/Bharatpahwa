@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Bharat Pahwa<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
+#  <span class="wave">👋</span> Hey, I'm Bharat Pahwa
+<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
 
 
 ## 🌐 Socials:
