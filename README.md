@@ -1,7 +1,10 @@
 # <span class="wave">👋</span>Hey, I'm Bharat Pahwa
-<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841007-99a0832e-2c11-45b0-957c-85f06125e40b.png) <br> 🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
+<br>🎯I'm a passionate Frontend Web Developer and a UI Designer<br>🌱 I’m currently learning React<br>💬 Ask me about Designing<br>🧑‍💻 // Algorithm of life<br><br>        #include<life.h><br>        while(noSuccess)<br>        {<br>         TryAgain();<br>         if (Success)<br>             Improve();<br>         }<br>
 
+<p align="right">
+  <img src="![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841162-5e37e089-58cf-4069-b4bb-4e4d6659e41f.png)" alt="Sublime's custom image"/>
 
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pahwa_bharat_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-pahwa-924816220) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BharatPahwa4) 
