@@ -15,15 +15,16 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bharatpahwa&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-![image-removebg-preview](https://user-images.githubusercontent.com/102665650/206841426-910d8173-97e8-4c3c-ba4b-afe62452aabf.png)<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bharatpahwa&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Bharatpahwa&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+<br>
+Show some ❤️ by Starring ⭐ my Repositories<br>
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Bpahwa) 
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Bpahwa) <br>
+![](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
